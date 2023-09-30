@@ -1,5 +1,9 @@
 # module8a
 
+![Screenshot_20230930-201233](https://github.com/nayeemx11/module8assignment/assets/63298176/7d3f5208-7c27-4572-b2c5-211985f8e958)
+![Screenshot_20230930-201305](https://github.com/nayeemx11/module8assignment/assets/63298176/beefefee-b20b-4bcc-9508-9c7b88029a73)
+
+
 echo "# module8assignment" >> README.md
 git init
 git add -A
